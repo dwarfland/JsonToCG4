@@ -1,0 +1,18 @@
+﻿{
+	"Name": "Test",
+	"Version": 5,
+	Items: [
+		{ "Foo": 5,
+		  "Bar": true,
+		},
+		{ "Foo": 5,
+		  "Baz": {}
+		}
+	],
+	Numbers: [1, 2, 3, 4],
+	Nested: [
+	  [1, 2, 3],
+	  [4, 5, 6],
+	],
+	Mixed: [5, "Test", {}]
+}

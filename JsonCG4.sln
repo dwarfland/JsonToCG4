@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# RemObjects Fire
+Project("{656346D9-4656-40DA-A068-22D5425D4639}") = "JsonCG4", "JsonCG4.elements", "{5BBED63A-A0FA-4A95-9993-8B421ADD6D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BBED63A-A0FA-4A95-9993-8B421ADD6D1A}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{5BBED63A-A0FA-4A95-9993-8B421ADD6D1A}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{5BBED63A-A0FA-4A95-9993-8B421ADD6D1A}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{5BBED63A-A0FA-4A95-9993-8B421ADD6D1A}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
